@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Du.InventorExtension", "Du.InventorExtension\Du.InventorExtension.vbproj", "{868B2F74-50B8-40D2-BFDB-53D26AD6CC96}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Du.InventorExtensionSample", "Du.InventorExtensionSample\Du.InventorExtensionSample.vbproj", "{12AF0D0E-56D7-4243-9FBA-1112F01A1FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{868B2F74-50B8-40D2-BFDB-53D26AD6CC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868B2F74-50B8-40D2-BFDB-53D26AD6CC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868B2F74-50B8-40D2-BFDB-53D26AD6CC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868B2F74-50B8-40D2-BFDB-53D26AD6CC96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12AF0D0E-56D7-4243-9FBA-1112F01A1FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12AF0D0E-56D7-4243-9FBA-1112F01A1FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12AF0D0E-56D7-4243-9FBA-1112F01A1FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12AF0D0E-56D7-4243-9FBA-1112F01A1FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {701CC0E3-A401-4335-AABE-DDDED7C93861}
+	EndGlobalSection
+EndGlobal
